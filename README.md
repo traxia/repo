@@ -1,6 +1,6 @@
 #Traxia Repositories
 
-These are the libraries we use for our production environment.
+These are the libraries we use for our production environment.  Compiled to work with Java 7 and above.
 
 ---
 
